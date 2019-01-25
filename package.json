@@ -1,0 +1,21 @@
+{
+  "name": "c4c",
+  "version": "1.0.0",
+  "description": "code for canada demo",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Hardik Brahmbhatt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fast-csv": "^2.4.1",
+    "html": "^1.0.0",
+    "supervisor": "^0.12.0"
+  }
+}
