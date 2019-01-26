@@ -2,20 +2,20 @@
 Nodejs , RestAPI, CSV to JSON
 
 
-Step 1: Download or clone project
+**Step 1**: Download or clone project
 
-Step 2: Go to c4c-fellowship project directory
+**Step 2**: Go to c4c-fellowship project directory
 
-Step 3:install Node Modules using below command
- npm install
+install Node Modules using below command
+**Step 3**: npm install
 
-Step 4: To run Project use below command
+**Step 4**: To run Project use below command
 
-if you'r using mac: supervisor index
+**if you'r using mac**: supervisor index
 
-if you'r using window:  nodemon index
+**if you'r using window**:  nodemon index
 
-or simply use : node index
+**or simply use** : node index
 
 
 **Here's what the following app can do  ( Open README.md for Demo )**
