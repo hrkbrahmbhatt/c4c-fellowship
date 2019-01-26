@@ -21,8 +21,8 @@ install Node Modules using below command
 
 **Here's what the following app can do  ( Open README.md for Demo )**
 
-* Can show the total number of viloations
-* Can show earliest and latest date.
+* Can show the total number of viloations in each category
+* Can show earliest and latest date for each category
 
 
 
